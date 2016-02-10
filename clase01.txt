@@ -1,0 +1,16 @@
+CLONE
+PUSH
+CLONE
+PULL
+
+
+CLONE
+PUSH
+
+git clone : para clonar un repositorio
+git status
+git add . : para agregar los archivos que va subir
+git add "archivo": copia el archivo que deseas que se guarde.
+git commit -m "Actualizar"
+git push origin master
+git pull origin master : esta trayendo los cambios a tu computadora.
