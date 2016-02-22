@@ -29,5 +29,12 @@ public class CarritoService {
 		return lista;
 		
 	}
+	
+	public double getTotal()
+	{
+		double total=0.0;
+		
+		
+	}
 
 }
